@@ -25,8 +25,24 @@ I enjoy tackling complex problems, building intelligent systems, and continuousl
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Osman-Kahraman&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Osman-Kahraman&theme=nightowl&hide_border=false)<br/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=wecoded-dev&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&icon_color=8b5a2b&text_color=4e342e&title_color=6d4c41" 
+  height="160"
+/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=wecoded-dev&hide_border=true&background=FFFFFF&ring=8B5A2B&fire=6D4C41&currStreakLabel=4E342E&sideLabels=4E342E&currStreakNum=6D4C41&sideNums=8B5A2B" 
+  height="160"
+/>
+
+<br/><br/>
+
+<!-- Extra Credibility Badges -->
+<img src="https://img.shields.io/github/followers/wecoded-dev?label=Followers&style=for-the-badge&color=8b5a2b&labelColor=ffffff" />
+<img src="https://img.shields.io/github/stars/wecoded-dev?label=Stars&style=for-the-badge&color=6d4c41&labelColor=ffffff" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-4e342e?style=for-the-badge" />
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Osman-Kahraman&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
