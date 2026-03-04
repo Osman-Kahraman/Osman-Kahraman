@@ -25,7 +25,7 @@ Feel free to connect with me at LinkedIn or explore my work here on GitHub.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,js,swift" height="28" />
+      <img src="https://skillicons.dev/icons?i=python,js,swift,c,cpp" height="28" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react,nextjs" height="28" />
