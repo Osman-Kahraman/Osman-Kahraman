@@ -14,6 +14,8 @@ Currently pursuing a Bachelor’s degree in Computer Programming at Seneca Polyt
 enjoy solving complex problems, and seek opportunities to apply my technical and leadership skills in innovative and growth-oriented environments.
 
 Feel free to connect with me at LinkedIn or explore my work here on GitHub.
+
+Also check my ✨perfect blogs✨ on [Dev.to](https://dev.to/osmankahraman)
   </p>
   
 # Tech Stack:
