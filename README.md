@@ -10,7 +10,7 @@
 
 I am a highly motivated software developer with 5 years of advanced Python experience, along with a strong background in machine learning and TensorFlow. 
 I have developed production-level solutions such as the ALi real estate tracker and built a solid technical foundation through hands-on engineering experience. 
-Currently pursuing a Bachelor’s degree in Computer Programming at Seneca Polytechnic, I also serve as a Team Lead at Google Developer Group (GDG). I am quick to adapt, 
+Currently pursuing a Bachelor’s degree in Computer Science at Seneca Polytechnic, I also serve as a Team Lead at Google Developer Group (GDG). I am quick to adapt, 
 enjoy solving complex problems, and seek opportunities to apply my technical and leadership skills in innovative and growth-oriented environments.
 
 Feel free to connect with me at LinkedIn or explore my work here on GitHub.
