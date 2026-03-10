@@ -2,11 +2,6 @@
 **Osman-Kahraman/Osman-Kahraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img width="1920" height="1080" alt="Piksel Manzara(2)" src="https://github.com/user-attachments/assets/8b6d6b82-5166-4bc9-838d-5ce9ef24c54a" />
-<div align="right">
-  <p>(Pixel art made by me)</p>
-</div>
-
 <div>
   
 ## Osman KAHRAMAN
