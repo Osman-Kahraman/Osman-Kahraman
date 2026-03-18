@@ -24,6 +24,7 @@ Also check my ✨perfect blogs✨ on [Dev.to](https://dev.to/osmankahraman)
     <td align="center"><strong>Backend</strong></td>
     <td align="center"><strong>Frontend</strong></td>
     <td align="center"><strong>ML / Vision</strong></td>
+    <td align="center"><strong>Scrapping</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -34,6 +35,9 @@ Also check my ✨perfect blogs✨ on [Dev.to](https://dev.to/osmankahraman)
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,matlab" height="28" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=selenium" height="28" />
     </td>
   </tr>
 </table>
